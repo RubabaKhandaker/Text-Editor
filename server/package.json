@@ -1,0 +1,17 @@
+{
+  "name": "jate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js --ignore client"
+  },
+  "author": "rubaba",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
