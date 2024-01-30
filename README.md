@@ -18,7 +18,7 @@ Some code inspired by given code in MONU Coding Bootcamp course.
 ## Contact
 
 GitHub Repo: [Text Editor Repo](https://github.com/RubabaKhandaker/Text-Editor)
-Deployed Application: 
+Deployed Application: [Text Editor App](https://rubabas-text-editor-365d4d9181c7.herokuapp.com/)
 
 ## License
 
